@@ -21,3 +21,10 @@ Sat Dec  5 20:15:45 IST 2020
   In each case, there might be a need for an extra pass /multiple extra passes to resolve semantic context-sensitive conflicts.
 
   The idea is to study real-world programming languages - Zig, Python, C, Java, Dlang for inspiration and ideas.
+
+
+Sun Dec 27 18:54:24 IST 2020
+
+* Some additional must-have features:
+  * Pattern Matching (a la Rust)
+  * Iterators (a la Java/Rust)
