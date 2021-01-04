@@ -28,3 +28,15 @@ Sun Dec 27 18:54:24 IST 2020
 * Some additional must-have features:
   * Pattern Matching (a la Rust)
   * Iterators (a la Java/Rust)
+
+
+Mon Jan  4 12:29:08 IST 2021
+
+* Parsing is decided as a PEG-inspired ad-hoc RD parser.
+
+* An FFI mechanism is absolutely needed for Oyi. This will, of course, be C-FFI.
+  * LLVM bindings (or any other backend) will need native/C++ bindings. Even if the LLVM part of the 
+    codebase is rewritten to use Oyi, that code will still need FFI to communicate with the C++ part.
+
+* Instead of an OOP system, a trait-like system would be useful. This will also tie in nicely with the
+  Iterators paradigm mentioned previously. This would be similar to Rust's traits system.
