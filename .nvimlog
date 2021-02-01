@@ -1,0 +1,7 @@
+INFO  2021-02-01T14:20:28.267 12530 set_init_2:754: startup runtimepath/packpath value: /Users/z0ltan/.config/nvim,/etc/xdg/nvim,/Users/z0ltan/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib/nvim,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/Users/z0ltan/.local/share/nvim/site/after,/etc/xdg/nvim/after,/Users/z0ltan/.config/nvim/after
+INFO  2021-02-01T14:20:28.402 12530 main:559: starting main loop
+INFO  2021-02-01T14:20:30.443 12530 on_process_exit:393: exited: pid=12531 status=0 stoptime=0
+INFO  2021-02-01T14:20:37.587 12530 on_process_exit:393: exited: pid=12537 status=127 stoptime=0
+INFO  2021-02-01T14:20:43.941 12530 on_process_exit:393: exited: pid=12538 status=0 stoptime=0
+INFO  2021-02-01T14:20:45.190 12530 on_process_exit:393: exited: pid=12540 status=0 stoptime=0
+INFO  2021-02-01T14:22:12.752 12530 os_exit:586: Nvim exit: 0

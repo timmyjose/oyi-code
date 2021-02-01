@@ -40,3 +40,9 @@ Mon Jan  4 12:29:08 IST 2021
 
 * Instead of an OOP system, a trait-like system would be useful. This will also tie in nicely with the
   Iterators paradigm mentioned previously. This would be similar to Rust's traits system.
+
+
+Mon Feb  1 14:20:43 IST 2021
+
+  * I have almost finalised on basing Oyi on LOGO. Basically, the core language will be a modified version of LOGO with static-typing, possibly no dynamic scoping,
+    and strong type inference. Any or all of this is liable to change though. Reference: The History of LOGO.
