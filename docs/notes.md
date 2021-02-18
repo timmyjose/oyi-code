@@ -54,3 +54,5 @@ Thu Feb 18 11:40:26 IST 2021
     easily swap out (retire/delete/maintain/update) this backend as Oyi is ported over to LLVM (and other backends in the future). 
 
     This is a bit of an initial cost, but I think it will actually help improve the quality of the core language.
+
+  * To start off with, I plan to create a specification for Oyi in the spirit of the Triangle language specification (Watt & Brown, PLPJ, Appendices B and C).
