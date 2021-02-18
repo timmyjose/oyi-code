@@ -46,3 +46,11 @@ Mon Feb  1 14:20:43 IST 2021
 
   * I have almost finalised on basing Oyi on LOGO. Basically, the core language will be a modified version of LOGO with static-typing, possibly no dynamic scoping,
     and strong type inference. Any or all of this is liable to change though. Reference: The History of LOGO.
+
+
+Thu Feb 18 11:40:26 IST 2021
+
+  * I will probably create a Stack Machine as a backend for Oyi first, and use that to flesh out the core language. The code generator should be modular enough to 
+    easily swap out (retire/delete/maintain/update) this backend as Oyi is ported over to LLVM (and other backends in the future). 
+
+    This is a bit of an initial cost, but I think it will actually help improve the quality of the core language.
